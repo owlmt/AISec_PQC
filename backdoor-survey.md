@@ -10,6 +10,7 @@ It also includes two quantitative author-level analyses requested for this corpu
 |---|---|
 | [`01-literature-review.md`](01-literature-review.md) | The survey: taxonomy, eight thematic sections, the full annotated paper catalog with verified links, the inferred name-origin histograms, trends, open problems, and recommendations. |
 | [`02-affiliation-analysis.md`](02-affiliation-analysis.md) | First-author affiliation analysis: histograms by country and institution, per-paper affiliation table, methodology, and caveats. |
+| [`03-llm-backdoors.md`](03-llm-backdoors.md) | **LLM-specific** backdoor techniques, one entry per paper: pretraining/instruction-tuning/RLHF/in-context/code/agent attacks plus defenses, with verified links. |
 | [`figures/`](figures/) | All four histogram images (PNG). |
 
 ## The four figures at a glance
